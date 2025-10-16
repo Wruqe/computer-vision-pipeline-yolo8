@@ -1,0 +1,9 @@
+# data.yaml — fill in your classes and paths
+train: ./data/images/train
+val: ./data/images/val
+
+# number of classes
+nc: 3
+
+# class names in index order (0..nc-1)
+names: [pothole, crack, manhole]

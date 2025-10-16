@@ -1,0 +1,18 @@
+# envs
+.venv/
+__pycache__/
+*.pyc
+
+
+# OS
+.DS_Store
+
+
+# training outputs
+runs/
+models/
+
+
+# data (keep your repo light by default)
+data/images/
+data/labels/
